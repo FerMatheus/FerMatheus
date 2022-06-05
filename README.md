@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @FerMatheus
-- 👀 I’m interested in Learn Machine
-- 🌱 I’m currently learning the basic rsrsrs
+- 👋 Olá, me chamo Matheus Freitas.
+- 👀 Atualmente, estou aprendendo à fundo o paradigma de OO.
+- 🌱 Entre as várias cadeiras de exatas da universidade, estudo programação e afins por fora.
 
 
 <!---
